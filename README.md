@@ -2,6 +2,7 @@
 
 <!--
 **lucasgreenwell/lucasgreenwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--!>
 
 I like technology, teaching, traveling, and granola. Physically based out of Nicaragua, logistically based out of the internet. I'm a US citizen and willing to relocate for the right role. Currently learning new things at Lambda School as a full time Computer Science student and studying for my Cloud Engineer Certification.
 
