@@ -4,7 +4,7 @@
 **lucasgreenwell/lucasgreenwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-I like technology, teaching, traveling, and granola. I have experience writing code in JavaScript, Python, Java, and Ruby. I've used various major development frameworks and with a bit of ramp up, can work on the front or back end of any application. My most recent obsession is learning how to implement existing machine learning solutions in my projects. The possibilities that Big Data has brought to developers are constantly exciting me!
+I like technology, teaching, traveling, and granola. I have experience writing code in JavaScript, Python, Java, and Ruby. I've used various major development frameworks and with a bit of ramp up, can work on the front or back end of any application. 
 
 <br/>
 <br/>
